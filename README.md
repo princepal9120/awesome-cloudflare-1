@@ -19,6 +19,7 @@
 
 **收录标准：**
 
+| [Shiba](https://github.com/princepal9120/shiba) | 自托管、需人工审批的 AI 编程代理。基于 Cloudflare Workers + Sandbox 容器运行 Claude Code、Codex、OpenCode 等编程工具，在隔离沙箱中执行任务并返回 diff / PR。AGPL-3.0。 | <https://tryshiba.dev/> | 维护中 |
 - 帮助但不限于独立开发者提升开发效率
 - 帮助但不限于独立开发者降低成本
 - 足够简单便捷
